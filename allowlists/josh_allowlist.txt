@@ -2,7 +2,7 @@
 ! Title: Josh's Core DNS Allowlist
 ! Description: Essential services and domains explicitly allowed on the home network
 ! Maintainer: Josh Ellis
-! Last modified: July 9, 2025 at 6:45 PM EDT
+! Last modified: July 9, 2025 at 7:36 PM EDT
 !
 
 ! Work & Infra
