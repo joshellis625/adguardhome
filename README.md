@@ -1,2 +1,2 @@
 # adguardhome
-Private AdGuard Home lists and configs
+My personal AdGuard Home lists and configs
