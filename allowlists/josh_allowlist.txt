@@ -2,11 +2,11 @@
 ! Title: Josh's Core DNS Allowlist
 ! Description: Essential services and domains explicitly allowed on the home network
 ! Maintainer: Josh Ellis
-! Last modified: July 9, 2025 at 7:36 PM EDT
+! Last modified: July 16, 2025 at 2:24 AM EDT
 !
 
 ! Work & Infra
-@@||conferdeploy.net^$importantimportant   ! Northrop Grumman endpoint
+@@||conferdeploy.net^$important            ! Northrop Grumman endpoint
 @@||memberspace.com^$important             ! Pivotal subscription management
 @@||northgrum.com^$important               ! Northrop Grumman core domain
 @@||pivotalweather.com^$important          ! Pivotal Weather paid access
