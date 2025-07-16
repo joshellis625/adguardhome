@@ -6,71 +6,71 @@
 !
 
 ! Work & Infra
-@@||conferdeploy.net^             ! Northrop Grumman endpoint
-@@||memberspace.com^             ! Pivotal subscription management
-@@||northgrum.com^               ! Northrop Grumman core domain
-@@||pivotalweather.com^          ! Pivotal Weather paid access
-@@||sentry.io^                   ! Error logging used by Pivotal
+@@||conferdeploy.net^$importantimportant   ! Northrop Grumman endpoint
+@@||memberspace.com^$important             ! Pivotal subscription management
+@@||northgrum.com^$important               ! Northrop Grumman core domain
+@@||pivotalweather.com^$important          ! Pivotal Weather paid access
+@@||sentry.io^$important                   ! Error logging used by Pivotal
 
 ! Big Tech
-@@||a2z.com^                     ! Amazon infrastructure
-@@||akadns.net^                 ! Apple CDN/service resolution
-@@||amazon.com^                 ! Amazon shopping, account
-@@||amazonaws.com^              ! AWS-hosted services
-@@||apple.com^                  ! Apple services & apps
-@@||icloud.com^                 ! iCloud services
-@@||microsoft.com^              ! Microsoft account & services
-@@||office.net^                 ! Office 365 platform
+@@||a2z.com^$important                     ! Amazon infrastructure
+@@||akadns.net^$important                  ! Apple CDN/service resolution
+@@||amazon.com^$important                  ! Amazon shopping, account
+@@||amazonaws.com^$important               ! AWS-hosted services
+@@||apple.com^$important                   ! Apple services & apps
+@@||icloud.com^$important                  ! iCloud services
+@@||microsoft.com^$important               ! Microsoft account & services
+@@||office.net^$important                  ! Office 365 platform
 
 ! Smart Home
-@@||anker.com^                  ! Eufy parent company
-@@||app-analytics-services.com^ ! IoT telemetry handler
-@@||appcenter.ms^               ! Microsoft IoT telemetry
-@@||bfmsa.com^                  ! Smart device telemetry
-@@||bfmsio.com^                 ! Smart device telemetry
-@@||crashlytics.com^           ! Eufy app crash logging
-@@||eufy.com^                   ! Eufy smart home devices
-@@||eufylife.com^               ! Eufy mobile app services
-@@||ring.com^                   ! Ring doorbell + cams
-@@||roku.com^                   ! Roku devices
-@@||segment.io^                 ! App/device tracking
-@@||tp-link.com^                ! TP-Link smart home
-@@||tplink.com^                 ! Alt TP-Link domain
-@@||tplinkra.com^               ! TP-Link regional access
+@@||anker.com^$important                   ! Eufy parent company
+@@||app-analytics-services.com^$important  ! IoT telemetry handler
+@@||appcenter.ms^$important                ! Microsoft IoT telemetry
+@@||bfmsa.com^$important                   ! Smart device telemetry
+@@||bfmsio.com^$important                  ! Smart device telemetry
+@@||crashlytics.com^$important             ! Eufy app crash logging
+@@||eufy.com^$important                    ! Eufy smart home devices
+@@||eufylife.com^$important                ! Eufy mobile app services
+@@||ring.com^$important                    ! Ring doorbell + cams
+@@||roku.com^$important                    ! Roku devices
+@@||segment.io^$important                  ! App/device tracking
+@@||tp-link.com^$important                 ! TP-Link smart home
+@@||tplink.com^$important                  ! Alt TP-Link domain
+@@||tplinkra.com^$important                ! TP-Link regional access
 
 ! CDN & Fonts
-@@||aaplimg.com^                ! Apple CDN images
-@@||adobe.com^                  ! Adobe web assets
-@@||adobe.io^                   ! Adobe APIs
-@@||akamaihd.net^               ! Akamai CDN
-@@||akamaized.net^              ! Akamai secure CDN
-@@||gvt2.com^                   ! Google CDN
-@@||typekit.net^                ! Adobe Fonts
+@@||aaplimg.com^$important                 ! Apple CDN images
+@@||adobe.com^$important                   ! Adobe web assets
+@@||adobe.io^$important                    ! Adobe APIs
+@@||akamaihd.net^$important                ! Akamai CDN
+@@||akamaized.net^$important               ! Akamai secure CDN
+@@||gvt2.com^$important                    ! Google CDN
+@@||typekit.net^$important                 ! Adobe Fonts
 
 ! Dev & API
-@@||firebaselogging.googleapis.com^ ! Firebase / OpenAI logs
-@@||googleapis.com^             ! Google APIs
-@@||mapbox.com^                 ! Mapping + visual data
+@@||firebaselogging.googleapis.com^$important ! Firebase / OpenAI logs
+@@||googleapis.com^$important             ! Google APIs
+@@||mapbox.com^$important                 ! Mapping + visual data
 
 ! App Infra
-@@||browser-intake-datadoghq.com^ ! Datadog telemetry
-@@||datadoghq.com^              ! Datadog platform
-@@||http-intake.logs.datadoghq.com^ ! Log collector
-@@||logi.com^                   ! Logitech short domain
-@@||logitech.com^              ! Logitech services
-@@||nextdoor.com^              ! Community alerts
-@@||tvp.tv^                     ! Embedded media player
-@@||wdfl.co^                    ! App analytics redirect
+@@||browser-intake-datadoghq.com^$important       ! Datadog telemetry
+@@||datadoghq.com^$important                      ! Datadog platform
+@@||http-intake.logs.datadoghq.com^$important     ! Log collector
+@@||logi.com^$important                           ! Logitech short domain
+@@||logitech.com^$important                       ! Logitech services
+@@||nextdoor.com^$important                       ! Community alerts
+@@||tvp.tv^$important                             ! Embedded media player
+@@||wdfl.co^$important                            ! App analytics redirect
 
 ! Media & Social
-@@||netflix.com^                ! Streaming
-@@||reddit.com^                 ! Forums, comments
-@@||youtube.com^                ! Video content
+@@||netflix.com^$important                ! Streaming
+@@||reddit.com^$important                 ! Forums, comments
+@@||youtube.com^$important                ! Video content
 
 ! Finance
-@@||intuit.com^                 ! QuickBooks, TurboTax
+@@||intuit.com^$important                 ! QuickBooks, TurboTax
 
 ! Overrides
-@@||beacons.extremereach.io^   ! Functional ad delivery
-@@||clients*.google.com^       ! Google client services
-@@||pi.ispot.tv^               ! Ad verification
+@@||beacons.extremereach.io^$important   ! Functional ad delivery
+@@||clients*.google.com^$important       ! Google client services
+@@||pi.ispot.tv^$important               ! Ad verification
